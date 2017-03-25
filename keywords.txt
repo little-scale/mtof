@@ -1,0 +1,3 @@
+mtof	KEYWORD1
+toPitch	KEYWORD2
+toFrequency	KEYWORD2
